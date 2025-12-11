@@ -1,2 +1,9 @@
 - [x] Be able to play music by console with hardcoded files
-- [] Have a txt of music names and shorts that can make a dictionary of possible songs to play
+- [x] Commit
+- [x] Have a txt of music names and shorts that can make a dictionary of possible songs to play
+- [x] Be able to load and remove songs from the file
+- [x] Commit
+- [] Catch unrecognized command 
+- [] Have a help function
+- [] Fade out and in
+- [] List current loaded songs and their file
