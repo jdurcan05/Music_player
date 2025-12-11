@@ -1,0 +1,1 @@
+Be able to play music by console with hardcoded files
