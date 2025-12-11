@@ -1,1 +1,2 @@
-Be able to play music by console with hardcoded files
+- [x] Be able to play music by console with hardcoded files
+- [] Have a txt of music names and shorts that can make a dictionary of possible songs to play
