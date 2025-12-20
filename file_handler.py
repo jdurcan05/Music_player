@@ -29,9 +29,8 @@ def file_reader(myFile):
 def rewrite_file(myFile, myDict):
     with open(myFile, "w") as f:
         for key in myDict:
-            inString = key
-            for i in myDict[key]:
-                inString = inString + " " + i
+            inString = key + " "
+            inString = inString + myDict[key].toFile()
             f.write(inString)
             f.write("\n")
 
