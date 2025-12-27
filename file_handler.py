@@ -5,7 +5,7 @@ def file_writer(myFile, inputList):
     for i in inputList:
         inString = inString + i + " "
     inString = inString[:len(inString)-1]
-    print(inString)
+    # print(inString)
     inString = inString + "\n"
     with open(myFile,"a") as f:
         f.write(inString)

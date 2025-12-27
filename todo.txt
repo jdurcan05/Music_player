@@ -3,10 +3,15 @@
 - [x] Have a txt of music names and shorts that can make a dictionary of possible songs to play
 - [x] Be able to load and remove songs from the file
 - [x] Commit
-- [] List current loaded songs and their file
+- [x] List current loaded songs and their file
 - [x] Make option for looped songs
 - [] Fade out and in
-- [] Catch unrecognized commands
+- [x] Catch unrecognized commands
+- [x] Loop songs on a time specified
 - [] Commit
 - [] Start a help function
 - [] Queue next song
+- [] Add actual error handling
+- [] Convert files into OGG
+- [] clean and comment code
+- [] Catch errors
